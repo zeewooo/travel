@@ -155,8 +155,8 @@ header {
 
 }
 
-#container {
-    padding-top: 25%;
+main{
+    padding-top: 60px;
 }
 #m_contents {
     background-image: url("https://contents.sixshop.com/thumbnails/uploadedFiles/138305/default/image_1678173989580_2500.jpg");
@@ -164,7 +164,7 @@ header {
     background-position: center;
     box-sizing: border-box;
     background-size: 100%;
-    height: 450px;
+    padding-top:70%;
 }
 
 p {
